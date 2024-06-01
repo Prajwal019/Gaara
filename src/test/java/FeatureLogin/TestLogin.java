@@ -30,5 +30,10 @@ public class TestLogin
     {
         System.out.println("waterfall");
     }
+    @Test
+    public void testLoginBtn5()
+    {
+        System.out.println("waterfall5");
+    }
 
 }
