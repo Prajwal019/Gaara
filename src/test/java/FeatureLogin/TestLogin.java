@@ -15,4 +15,9 @@ public class TestLogin
     {
         System.out.println("world");
     }
+    @Test
+    public void testLoginBtn2()
+    {
+        System.out.println("water");
+    }
 }
