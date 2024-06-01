@@ -10,44 +10,49 @@ public class TestLogin
         System.out.println("Hi");
     }
 
-     @Test
+    @Test
     public void testLoginBtn()
     {
         System.out.println("world");
     }
+
     @Test
     public void testLoginBtn2()
     {
         System.out.println("water");
     }
+
     @Test
     public void testLoginBtn3()
     {
         System.out.println("waterfall");
     }
-     @Test
+
+    @Test
     public void testLoginBtn4()
     {
         System.out.println("waterfall");
     }
+
     @Test
     public void testLoginBtn5()
     {
         System.out.println("waterfall5");
     }
+
     @Test
     public void testLoginTextFld()
     {
         System.out.println("wa");
     }
 
-     @Test
+    @Test
     public void testLoginTextFld2()
     {
         System.out.println("wa3");
     }
 
-     @Test
+    @Test
     public void testLoginTextFld3()
     {
         System.out.println("wa4");
@@ -57,5 +62,11 @@ public class TestLogin
     public void testLoginMessage()
     {
         System.out.println("lwa");
+    }
+
+    @Test
+    public void testLoginMessage24()
+    {
+        System.out.println("lwadfgh");
     }
 }
