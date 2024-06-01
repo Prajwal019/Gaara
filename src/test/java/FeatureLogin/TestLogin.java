@@ -41,4 +41,16 @@ public class TestLogin
         System.out.println("wa");
     }
 
+     @Test
+    public void testLoginTextFld2()
+    {
+        System.out.println("wa3");
+    }
+
+     @Test
+    public void testLoginTextFld3()
+    {
+        System.out.println("wa4");
+    }
+
 }
