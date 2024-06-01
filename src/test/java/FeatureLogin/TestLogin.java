@@ -74,4 +74,10 @@ public class TestLogin
     {
         System.out.println("Joker");
     }
+
+     @Test
+    public void testLoginMessage26()
+    {
+        System.out.println("Joker Batman");
+    }
 }
