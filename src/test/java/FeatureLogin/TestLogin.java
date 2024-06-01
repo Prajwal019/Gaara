@@ -58,4 +58,10 @@ public class TestLogin
     {
         System.out.println("lwa");
     }
+
+    @Test
+    public void testLoginMessagePopUp()
+    {
+        System.out.println("lwadfghjfgh");
+    }
 }
