@@ -53,4 +53,9 @@ public class TestLogin
         System.out.println("wa4");
     }
 
+    @Test
+    public void testLoginMessage()
+    {
+        System.out.println("lwa");
+    }
 }
