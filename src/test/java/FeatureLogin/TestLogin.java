@@ -20,4 +20,10 @@ public class TestLogin
     {
         System.out.println("water");
     }
+    @Test
+    public void testLoginBtn3()
+    {
+        System.out.println("waterfall");
+    }
+
 }
