@@ -58,4 +58,15 @@ public class TestLogin
     {
         System.out.println("lwa");
     }
+
+    @Test
+    public void testLoginMessage2()
+    {
+        System.out.println("lwa");
+    }
+    @Test
+    public void testLoginMessage3()
+    {
+        System.out.println("lwa");
+    }
 }
