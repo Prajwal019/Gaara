@@ -35,5 +35,10 @@ public class TestLogin
     {
         System.out.println("waterfall5");
     }
+    @Test
+    public void testLoginTextFld()
+    {
+        System.out.println("wa");
+    }
 
 }
