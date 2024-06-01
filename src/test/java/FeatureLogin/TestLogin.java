@@ -25,9 +25,10 @@ public class TestLogin
     {
         System.out.println("waterfall");
     }
-    @Test
-    public void testLoginText()
+     @Test
+    public void testLoginBtn4()
     {
-        System.out.println("dfghj");
+        System.out.println("waterfall");
     }
+
 }
